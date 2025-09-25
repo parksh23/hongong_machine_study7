@@ -14,6 +14,8 @@
 ### 1. 레포지토리 Fork
 - 각 스터디 장은 이 레포를 fork 하여 자신의 스터디 저장소를 생성합니다.
 - 스터디원들은 해당 fork 저장소를 활용해 자료를 올립니다.
+- <img width="1268" height="756" alt="image" src="https://github.com/user-attachments/assets/e34e2d02-1ccb-4b04-909a-dc7c18a51f48" />
+-> 꼭 Copy the main branch only 체크!!
 
 ### 2. 스터디 전용 브랜치 사용
 - 각 스터디에는 고유한 브랜치가 존재합니다.
